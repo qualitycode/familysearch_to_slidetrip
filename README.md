@@ -27,4 +27,6 @@ It is smart software that will create movies from your family history, with audi
  5. There are other cool parts of this project, which will be documented
     later.
 
-To get involved, join our discussion group and leave a message. See https://github.com/qualitycode/familysearch_to_slidetrip
+To get involved, join our discussion group and leave a message. See https://github.com/qualitycode/familysearch_to_slidetrip  
+
+We need programmers, graphic designers, genealogy mentors. Programmers, we are using the MERN stack (Mongo, Express, React, Node.js, javascript, etc.)
