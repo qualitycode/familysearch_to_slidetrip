@@ -1,0 +1,1275 @@
+<HEAD>
+<SOUR line="1" line_value="Legacy">
+<VERS line="2" line_value="7.4"/>
+<NAME line="2" line_value="Legacy (R)"/>
+<CORP line="2" line_value="Millennia Corp.">
+<ADDR line="3" line_value="PO Box 9410">
+<CONT line="4" line_value="Surprise, AZ 85374"/>
+</ADDR>
+</CORP>
+</SOUR>
+<DEST line="1" line_value="Legacy"/>
+<DATE line="1" line_value="3 Aug 2010"/>
+<SUBM line="1" pointer="S0"/>
+<FILE line="1" line_value="obama/obama.ged"/>
+<GEDC line="1">
+<VERS line="2" line_value="5.5"/>
+<FORM line="2" line_value="LINEAGE-LINKED"/>
+</GEDC>
+<CHAR line="1" line_value="ANSI"/>
+<SUBM line="0" xref="S0">
+<NAME line="1" line_value="Maddocks"/>
+</SUBM>
+<INDI line="0" xref="I1">
+<NAME line="1" line_value="Barack Hussein /Obama/">
+<GIVN line="2" line_value="Barack Hussein"/>
+<SURN line="2" line_value="Obama"/>
+<NSFX line="2" line_value="Jr."/>
+</NAME>
+<SEX line="1" line_value="M"/>
+<BIRT line="1">
+<DATE line="2" line_value="4 Aug 1961"/>
+<PLAC line="2" line_value="Kapi'olani Maternity &amp; Gynecological Hospital, Honolulu, Hawaii"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/obama_child.jpg"/>
+<NOTE line="3" line_value="Barack Obama  was born  to this union  on August 4, 1961, a">
+<CONC line="4" line_value="t  &lt;u>&lt;a href='http://en.wikipedia.org/wiki/Kapi%27olani_Me"/>
+<CONC line="4" line_value="dical_Center_for_Women_%26_Children' title='Kapiolani Medic"/>
+<CONC line="4" line_value="al Center for Women &amp;amp;amp; Children' target='_blank'>Kap"/>
+<CONC line="4" line_value="iolani  Maternity &amp;amp;amp; Gynecological Hospital&lt;/a>&lt;/u"/>
+<CONC line="4" line_value="> in Honolulu, Hawaii."/>
+</NOTE>
+<_DATE line="3" line_value="4 Aug 1961"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-162346.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</BIRT>
+<EVEN line="1">
+<TYPE line="2" line_value="Parents"/>
+<DATE line="2" line_value="10 Jan 1920"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/Ann_Dunham_with_father_and_children.jpg"/>
+<NOTE line="3" line_value="&lt;p>Barack Hussein Obama Jr., is the son of Stanley Ann Dunh">
+<CONC line="4" line_value="am and Barack Hussein Obama, Sr.  Barack Jr.  is shown her"/>
+<CONC line="4" line_value="e with his mother and maternal grandfather, Stanley Dunham"/>
+<CONC line="4" line_value=", and half sister, Maya Soetoro.&lt;/p>"/>
+<CONT line="4" line_value="&lt;p>&lt;strong>&lt;u>&lt;a href='http://ourfathers.org/test/#/obama/o"/>
+<CONC line="4" line_value="bama.ged.xml/I2' target='_blank'>Click here to see a presen"/>
+<CONC line="4" line_value="tation about President Obama's Father.&lt;/a>&lt;/u>&lt;/strong>&lt;/p>"/>
+</NOTE>
+<_DATE line="3" line_value="10 Jan 1920"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-161738.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Birth of Father"/>
+<DATE line="2" line_value="4 Apr 1936"/>
+<PLAC line="2" line_value="Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/father.jpg"/>
+<TITL line="3" line_value="Barack Hussein Obama, Sr"/>
+<NOTE line="3" line_value="&lt;p>Obama's father was born on April 4, 1936 in Kanyadhian">
+<CONC line="4" line_value="g village, Rachuonyo District on the shores of Lake Victori"/>
+<CONC line="4" line_value="a just outside Kendu Bay, Kenya Colony.&lt;/p>"/>
+<CONT line="4" line_value="&lt;p>&lt;strong>&lt;u>&lt;a href='http://ourfathers.org/test/#/obama/o"/>
+<CONC line="4" line_value="bama.ged.xml/I2' target='_blank'>Click here to see a presen"/>
+<CONC line="4" line_value="tation about President Obama's Father.&lt;/a>&lt;/u>&lt;/strong>&lt;/p>"/>
+</NOTE>
+<_DATE line="3" line_value="4 Apr 1936"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-161925.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Birth of mother"/>
+<DATE line="2" line_value="29 Nov 1942"/>
+<PLAC line="2" line_value="Wichita, Sedgwick, Kansas, USA"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/Surviving_Against_the_Odds.jpg"/>
+<NOTE line="3" line_value="Obama's mother  was born on  November 29, 1942 in Wichita">
+<CONC line="4" line_value=", Kansas."/>
+</NOTE>
+<_DATE line="3" line_value="29 Nov 1942"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-161841.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="parents_met"/>
+<DATE line="2" line_value="1960"/>
+<PLAC line="2" line_value="University of Hawaii at Manoa, Hi"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/parents_younger.jpg"/>
+<NOTE line="3" line_value="Obama's parents met in 1960 in a Russian language class a">
+<CONC line="4" line_value="t the University of Hawaii at Mánoa, where his father wa"/>
+<CONC line="4" line_value="s a foreign student on scholarship."/>
+</NOTE>
+<_DATE line="3" line_value="1960"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-162251.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Parents married"/>
+<DATE line="2" line_value="2 Feb 1961"/>
+<PLAC line="2" line_value="Maui, Hawaii, USA"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/parents_ob_obama.jpg"/>
+<TITL line="3" line_value="Barack Obama's Parents"/>
+<NOTE line="3" line_value="In Feb 2, 1961, Obama's parents were married in Maui, Hawaii"/>
+<_DATE line="3" line_value="2 Feb 1961"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-162311.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Birth Residence"/>
+<DATE line="2" line_value="13 Aug 1961"/>
+<PLAC line="2" line_value="6085 Kalanianoale Hiway, honolulu, hi"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/obama_with_mother.jpg"/>
+<NOTE line="3" line_value="The local paper announced the birth of Barack, and the plac">
+<CONC line="4" line_value="e of his residence as  6085 Kalanianoale Hiway, honolulu, hi"/>
+</NOTE>
+<_DATE line="3" line_value="13 Aug 1961"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-162552.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Divorce of parents"/>
+<DATE line="2" line_value="1964"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/stepadad_and_fam.jpg"/>
+<NOTE line="3" line_value="Barack's parents divorced in 1964. After her divorce, Barac">
+<CONC line="4" line_value="k's mother  married &lt;a href='http://en.wikipedia.org/wiki/I"/>
+<CONC line="4" line_value="ndonesia' title='Indonesia' target='_blank'>&lt;u>Indonesian&lt;/"/>
+<CONC line="4" line_value="u>&lt;/a> student &lt;a href='http://en.wikipedia.org/wiki/Lolo_S"/>
+<CONC line="4" line_value="oetoro' title='Lolo Soetoro' target='_blank'>&lt;u>Lolo  Soeto"/>
+<CONC line="4" line_value="ro&lt;/u>&lt;/a>, who was attending college in Hawaii."/>
+</NOTE>
+<_DATE line="3" line_value="1964"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-162734.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Move"/>
+<DATE line="2" line_value="1967"/>
+<PLAC line="2" line_value="Menteng, Jakarta"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/jakarta.jpg"/>
+<TITL line="3" line_value="Jakarta"/>
+<NOTE line="3" line_value="When &lt;a href='http://en.wikipedia.org/wiki/Suharto' title='">
+<CONC line="4" line_value="Suharto' target='_blank'>&lt;u>Suharto&lt;/u>&lt;/a>, a  military le"/>
+<CONC line="4" line_value="ader in Soetoro's home country, &lt;a href='http://en.wikipedi"/>
+<CONC line="4" line_value="a.org/wiki/Transition_to_the_New_Order' title='Transition t"/>
+<CONC line="4" line_value="o the New Order' target='_blank'>&lt;u>came to power&lt;/u>&lt;/a> i"/>
+<CONC line="4" line_value="n 1967, all Indonesian  students studying abroad were recal"/>
+<CONC line="4" line_value="led, and Barack’s family all moved to the &lt;a href='http:/"/>
+<CONC line="4" line_value="/en.wikipedia.org/wiki/Menteng' title='Menteng' target='_bl"/>
+<CONC line="4" line_value="ank'>&lt;u>Menteng&lt;/u>&lt;/a> neighborhood of &lt;a href='http://en."/>
+<CONC line="4" line_value="wikipedia.org/wiki/Jakarta' title='Jakarta' target='_blank'"/>
+<CONC line="4" line_value=">&lt;u>Jakarta&lt;/u>&lt;/a>."/>
+</NOTE>
+<_DATE line="3" line_value="1967"/>
+<_SOUND line="3" line_value="obama/audio/10_when_suharto.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="School"/>
+<DATE line="2" line_value="1968"/>
+<PLAC line="2" line_value="Besuki Public School, Jakarta"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/at_Besuki_public_school .jpg"/>
+<NOTE line="3" line_value="From  ages six to ten, Obama attended local schools in Jaka">
+<CONC line="4" line_value="rta, including &lt;a href='http://en.wikipedia.org/wiki/State_"/>
+<CONC line="4" line_value="Elementary_School_Menteng_01' title='State Elementary Schoo"/>
+<CONC line="4" line_value="l Menteng 01' target='_blank'>&lt;u>Besuki Public School&lt;/u>&lt;/"/>
+<CONC line="4" line_value="a> and St.  Francis of Assisi School."/>
+</NOTE>
+<_DATE line="3" line_value="1968"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-163244.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/ObamaKindergartenLarge2.jpg"/>
+<_DATE line="3" line_value="1969"/>
+<_SCBK line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Move"/>
+<DATE line="2" line_value="1971"/>
+<PLAC line="2" line_value="Honolulu, Hi"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/with_grandparents.jpg"/>
+<TITL line="3" line_value="Obama with his maternal grandparents, Madelyn and Stanley Armour Dunham"/>
+<NOTE line="3" line_value="In  1971, Obama returned to Honolulu to live with his mater">
+<CONC line="4" line_value="nal grandparents, &lt;a href='http://en.wikipedia.org/wiki/Mad"/>
+<CONC line="4" line_value="elyn_Dunham' title='Madelyn Dunham' target='_blank'>&lt;u>Made"/>
+<CONC line="4" line_value="lyn&lt;/u>&lt;/a> and &lt;a href='http://en.wikipedia.org/wiki/Stanl"/>
+<CONC line="4" line_value="ey_Armour_Dunham' title='Stanley Armour Dunham' target='_bl"/>
+<CONC line="4" line_value="ank'>&lt;u>Stanley Armour Dunham&lt;/u>&lt;/a>"/>
+</NOTE>
+<_DATE line="3" line_value="1971"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-163936.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/wmama_0421.jpg"/>
+<NOTE line="3" line_value="Obama's  mother returned to Hawaii in 1972, remaining ther">
+<CONC line="4" line_value="e until 1977 when she went  back to Indonesia to work as a"/>
+<CONC line="4" line_value="n &lt;a href='http://en.wikipedia.org/wiki/Anthropology' title"/>
+<CONC line="4" line_value="='Anthropology' target='_blank'>&lt;u>anthropological&lt;/u>&lt;/a"/>
+<CONC line="4" line_value="> field worker. She finally returned to Hawaii in 1994 an"/>
+<CONC line="4" line_value="d lived there for one  year, before dying of &lt;a href='http:"/>
+<CONC line="4" line_value="//en.wikipedia.org/wiki/Ovarian_cancer' title='Ovarian canc"/>
+<CONC line="4" line_value="er' target='_blank'>&lt;u>ovarian cancer&lt;/u>&lt;/a>."/>
+</NOTE>
+<_DATE line="3" line_value="1972"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-165420.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Move"/>
+<DATE line="2" line_value="1979"/>
+<PLAC line="2" line_value="Occidental College, Los Angeles, USA"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/800px-Occidental_quad.jpg"/>
+<TITL line="3" line_value="Occidental College Campus"/>
+<NOTE line="3" line_value="Following high school, Obama moved to Los Angeles in 1979 t">
+<CONC line="4" line_value="o attend &lt;a href='http://en.wikipedia.org/wiki/Occidental_C"/>
+<CONC line="4" line_value="ollege' title='Occidental College' target='_blank'>&lt;u>Occid"/>
+<CONC line="4" line_value="ental College&lt;/u>&lt;/a>.&lt;a href='http://en.wikipedia.org/wiki"/>
+<CONC line="4" line_value="/Barack_Obama#cite_note-Occidental-25'>&lt;/a> In February 198"/>
+<CONC line="4" line_value="1, he made his first public speech, calling for Occidental'"/>
+<CONC line="4" line_value="s &lt;a href='http://en.wikipedia.org/wiki/Disinvestment_from_"/>
+<CONC line="4" line_value="South_Africa' title='Disinvestment from South Africa' targe"/>
+<CONC line="4" line_value="t='_blank'>&lt;u>divestment&lt;/u>&lt;/a> from South Africa."/>
+</NOTE>
+<_DATE line="3" line_value="1979"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-165720.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Traveled"/>
+<DATE line="2" line_value="1981"/>
+<PLAC line="2" line_value="Yogyakarta , Indonesia"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/barack_maya.jpg"/>
+<TITL line="3" line_value="Barack with Sister, Maya"/>
+<NOTE line="3" line_value="In the summer of 1981, Obama traveled to  Yogyakarta , Indo">
+<CONC line="4" line_value="nesia to visit his mother and sister Maya."/>
+</NOTE>
+<_DATE line="3" line_value="1 Jun 1981"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-165747.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Traveled"/>
+<DATE line="2" line_value="5 Jun 1981"/>
+<PLAC line="2" line_value="India"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/ObamaPunahouMagazine.jpg"/>
+<TITL line="3" line_value="Obama with college friends"/>
+<NOTE line="3" line_value="He also visited the families of college friends in India an">
+<CONC line="4" line_value="d Pakistan."/>
+</NOTE>
+<_DATE line="3" line_value="5 Jun 1981"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170053.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="School"/>
+<DATE line="2" line_value="9 Jan 1981"/>
+<PLAC line="2" line_value="Columbia University, New York City"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/barack-obama-columbia.jpg"/>
+<TITL line="3" line_value="Barack at Columbia University"/>
+<NOTE line="3" line_value="Later in 1981 he transferred to Columbia University in Ne">
+<CONC line="4" line_value="w York City, where he majored in political science with a s"/>
+<CONC line="4" line_value="pecialty in international relations and graduated with a B."/>
+<CONC line="4" line_value="A. degree in 1983."/>
+</NOTE>
+<_DATE line="3" line_value="1 Sep 1981"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170221.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Employment"/>
+<DATE line="2" line_value="1982"/>
+<PLAC line="2" line_value="New York Public Interest Research Group, New York"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/nypirg.jpg"/>
+<NOTE line="3" line_value="He  worked for a year at the &lt;a href='http://en.wikipedia.o">
+<CONC line="4" line_value="rg/wiki/Business_International_Corporation' title='Busines"/>
+<CONC line="4" line_value="s International Corporation' target='_blank'>&lt;u>Business In"/>
+<CONC line="4" line_value="ternational Corporation&lt;/u>&lt;/a>,&lt;a href='http://en.wikipedi"/>
+<CONC line="4" line_value="a.org/wiki/Barack_Obama#cite_note-BOCV-27'>&lt;/a>&lt;a href='htt"/>
+<CONC line="4" line_value="p://en.wikipedia.org/wiki/Barack_Obama#cite_note-28'>&lt;/a> t"/>
+<CONC line="4" line_value="hen at the &lt;a href='http://en.wikipedia.org/wiki/New_York_P"/>
+<CONC line="4" line_value="ublic_Interest_Research_Group' title='New York Public Inter"/>
+<CONC line="4" line_value="est Research Group' target='_blank'>&lt;u>New York Public Inte"/>
+<CONC line="4" line_value="rest  Research"/>
+</NOTE>
+<_DATE line="3" line_value="1982"/>
+<_SOUND line="3" line_value="obama/audio/20_he_worked_for_a_year.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="hired in Chicago as director of the Developing Communities Project ">
+<TYPE line="2" line_value="Moved"/>
+<DATE line="2" line_value="1985"/>
+<PLAC line="2" line_value="South Side, Chicago"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/director_of_developing_communities.jpg"/>
+<NOTE line="3" line_value="After four years in New York City, Obama was hired in Chica">
+<CONC line="4" line_value="go as director of the Developing Communities Project (DCP)"/>
+<CONC line="4" line_value=", a church-based community organization in Chicago's far So"/>
+<CONC line="4" line_value="uth Side."/>
+</NOTE>
+<_DATE line="3" line_value="1985"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170503.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Traveled"/>
+<DATE line="2" line_value="1 Jun 1988"/>
+<PLAC line="2" line_value="Europe"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/europe-map.jpg"/>
+<NOTE line="3" line_value="In mid-1988, he traveled for the first time in Europe.   H">
+<CONC line="4" line_value="e was there three weeks."/>
+</NOTE>
+<_DATE line="3" line_value="1 Jun 1988"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170531.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="and then to kenya to visit paternal family">
+<TYPE line="2" line_value="Traveled"/>
+<DATE line="2" line_value="1 Jul 1988"/>
+<PLAC line="2" line_value="Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/obama_family_12.jpg"/>
+<TITL line="3" line_value="Obama with his Paternal Grandmother"/>
+<NOTE line="3" line_value="...and then for five weeks in Kenya, where he met many of h">
+<CONC line="4" line_value="is paternal relatives for the first time"/>
+</NOTE>
+<_DATE line="3" line_value="1 Jul 1988"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170539.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="traveled to Kenya">
+<TYPE line="2" line_value="Traveled"/>
+<DATE line="2" line_value="1 Aug 2006"/>
+<PLAC line="2" line_value="Kisumu, Kenya"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/obama_family_11.jpg"/>
+<NOTE line="3" line_value="In August 2006 Obama again visited his father's birthplace">
+<CONC line="4" line_value=", a village near Kisumu in rural western Kenya."/>
+</NOTE>
+<_DATE line="3" line_value="1 Aug 2006"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170718.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="harvard">
+<TYPE line="2" line_value="School"/>
+<DATE line="2" line_value="1 Dec 1988"/>
+<PLAC line="2" line_value="Harvard Law School, Massachusetts"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/hardvard_law_review.jpg"/>
+<NOTE line="3" line_value="In  late 1988, Obama entered &lt;a href='http://en.wikipedia.o">
+<CONC line="4" line_value="rg/wiki/Harvard_Law_School' title='Harvard Law School' targ"/>
+<CONC line="4" line_value="et='_blank'>&lt;u>Harvard Law School&lt;/u>&lt;/a>. He was selecte"/>
+<CONC line="4" line_value="d as an editor  of the &lt;em>Harvard Law Review&lt;/em> at the e"/>
+<CONC line="4" line_value="nd of his first year,&lt;a href='http://en.wikipedia.org/wiki/"/>
+<CONC line="4" line_value="Barack_Obama#cite_note-Harvard_Law_2007-36'>&lt;/a> and presid"/>
+<CONC line="4" line_value="ent of the journal in his second year."/>
+</NOTE>
+<_DATE line="3" line_value="Dec-Jan 1988"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170753.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="moved back to Chicago and taught law">
+<TYPE line="2" line_value="Moved"/>
+<DATE line="2" line_value="1991"/>
+<PLAC line="2" line_value="University of Chicago, Chicago, Il"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/University_of_Chicago_Law.jpg"/>
+<NOTE line="3" line_value="After graduating with a Juris Doctor magna cum laude from H">
+<CONC line="4" line_value="arvard in 1991, he returned to Chicago."/>
+<CONT line="4" line_value="He accepted positions at the University of Chicago, first a"/>
+<CONC line="4" line_value="s Visiting Law and Government Fellow and  then as professo"/>
+<CONC line="4" line_value="r at the Law School -as a Lecturer from 1992 to 2004."/>
+</NOTE>
+<_DATE line="3" line_value="1991"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170811.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="married Michelle">
+<TYPE line="2" line_value="Marriage"/>
+<DATE line="2" line_value="3 Oct 1992"/>
+<PLAC line="2" line_value="Trinity United Church of Christ in Chicago, Illinois"/>
+<OBJE line="2">
+<FORM line="3" line_value="mm"/>
+<FILE line="3" line_value="obama/images/wedding.jpeg"/>
+<NOTE line="3" line_value="Obama married Michelle Robinson on October 3, 1992 at the T">
+<CONC line="4" line_value="rinity United Church of Christ in Chicago, Illinois"/>
+</NOTE>
+<_DATE line="3" line_value="3 Oct 1992"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170839.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="illinois senate">
+<TYPE line="2" line_value="Public Office"/>
+<DATE line="2" line_value="1997"/>
+<PLAC line="2" line_value="Illinois State Capitol, Springfield, IL, U.S"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/illinois_senate.jpg"/>
+<NOTE line="3" line_value="Obama &lt;a href='http://en.wikipedia.org/wiki/Illinois_Senate">
+<CONC line="4" line_value="_career_of_Barack_Obama' title='Illinois Senate career of B"/>
+<CONC line="4" line_value="arack Obama' target='_blank'>&lt;u>served&lt;/u>&lt;/a> three term"/>
+<CONC line="4" line_value="s in the &lt;a href='http://en.wikipedia.org/wiki/Illinois_Sen"/>
+<CONC line="4" line_value="ate' title='Illinois Senate' target='_blank'>&lt;u>Illinois  S"/>
+<CONC line="4" line_value="enate&lt;/u>&lt;/a> from 1997 to 2004."/>
+</NOTE>
+<_DATE line="3" line_value="1997"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-170946.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="birth of Malia">
+<TYPE line="2" line_value="Birth of Child"/>
+<DATE line="2" line_value="4 Jul 1998"/>
+<PLAC line="2" line_value="Kenwood, Chicago, IL"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/malia.jpg"/>
+<NOTE line="3" line_value="Barack and Michelle's first daughter, Malia Ann, was born o">
+<CONC line="4" line_value="n July 4, 1998"/>
+</NOTE>
+<_DATE line="3" line_value="4 Jul 1998"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-171040.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="sasha born">
+<TYPE line="2" line_value="Birth of Child"/>
+<DATE line="2" line_value="10 Jun 2001"/>
+<PLAC line="2" line_value="Kenwood, Chicago, IL"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/sasha_obama.jpg"/>
+<NOTE line="3" line_value="The couple's second child, Natasha ('Sasha'), was born on J">
+<CONC line="4" line_value="une 10, 2001"/>
+</NOTE>
+<_DATE line="3" line_value="10 Jun 2001"/>
+<_SOUND line="3" line_value="obama/audio/rec0728-171122.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="us senate">
+<TYPE line="2" line_value="Public Office"/>
+<DATE line="2" line_value="2005"/>
+<PLAC line="2" line_value="US Capitol Building, Washington, D.C."/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/obama_us_senate.jpg"/>
+<NOTE line="3" line_value="Obama then became US Senator from 2005 to 2008. Obama annou">
+<CONC line="4" line_value="nced on November 13, 2008 that he would resign his Senate s"/>
+<CONC line="4" line_value="eat on November 16, 2008, to focus on his transition perio"/>
+<CONC line="4" line_value="d for the presidency."/>
+</NOTE>
+<_DATE line="3" line_value="2005"/>
+<_SOUND line="3" line_value="obama/audio/31_us_sen.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Public Office"/>
+<DATE line="2" line_value="20 Jan 2009"/>
+<PLAC line="2" line_value="US Capitol Building, Washington, D.C."/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/inaugeration.jpg"/>
+<NOTE line="3" line_value="On January 20 2009, Barack Obama was &lt;a href='http://en.wik">
+<CONC line="4" line_value="ipedia.org/wiki/Inauguration_of_Barack_Obama' title='Inaugu"/>
+<CONC line="4" line_value="ration of Barack Obama' target='_blank'>&lt;u>inaugurated&lt;/u>&lt;"/>
+<CONC line="4" line_value="/a> as the 44th President of    the United States of Americ"/>
+<CONC line="4" line_value="a."/>
+</NOTE>
+<_DATE line="3" line_value="20 Jan 2009"/>
+<_SOUND line="3" line_value="obama/audio/32_inag.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/the_end.jpg"/>
+<NOTE line="3" line_value="The End"/>
+<_DATE line="3" line_value="22 Jan 2009"/>
+<_SCBK line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<_UID line="1" line_value="E3F1B1C382734D04B5C9DD3EA3A82319AE81"/>
+<CHAN line="1">
+<DATE line="2" line_value="3 Aug 2010">
+<TIME line="3" line_value="12:09"/>
+</DATE>
+</CHAN>
+<OBJE line="1">
+<FORM line="2" line_value="jpg"/>
+<FILE line="2" line_value="obama/images/440px-Official_portrait_of_Barack_Obama.jpg"/>
+<TITL line="2" line_value="Barack Hussein Obama Jr."/>
+<NOTE line="2" line_value="This is the story of Barack Obama, the 44th President of th">
+<CONC line="3" line_value="e United States of America."/>
+<CONT line="3"/>
+<CONT line="3" line_value="Most of this information was obtained from &lt;u>&lt;a href='http"/>
+<CONC line="3" line_value="://en.wikipedia.org/wiki/Barack_Obama' target='_blank'>Wiki"/>
+<CONC line="3" line_value="pedia.org&lt;/a>&lt;/u>.  This site, when finished, will  be an o"/>
+<CONC line="3" line_value="nline community of volunteers working with each other to te"/>
+<CONC line="3" line_value="ll stories of our histories.  This site was inspired by Wik"/>
+<CONC line="3" line_value="ipedia.org."/>
+<CONT line="3" line_value="  "/>
+<CONT line="3" line_value="Wikipedia contributors. 'Barack Obama.' Wikipedia, The Fre"/>
+<CONC line="3" line_value="e Encyclopedia. Wikipedia, The Free Encyclopedia, 28 Jul. 2"/>
+<CONC line="3" line_value="010. Web. 28 Jul. 2010."/>
+</NOTE>
+<_DATE line="2" line_value="1 Jan 1920"/>
+<_SOUND line="2" line_value="obama/audio/1_this_is_story.mp3"/>
+<_SCBK line="2" line_value="Y"/>
+<_PRIM line="2" line_value="Y"/>
+<_TYPE line="2" line_value="PHOTO"/>
+</OBJE>
+<FAMC line="1" pointer="F1"/>
+</INDI>
+<INDI line="0" xref="I2">
+<NAME line="1" line_value="Barack Hussein /Obama/">
+<GIVN line="2" line_value="Barack Hussein"/>
+<SURN line="2" line_value="Obama"/>
+<NSFX line="2" line_value="Sr."/>
+</NAME>
+<SEX line="1" line_value="M"/>
+<EVEN line="1">
+<TYPE line="2" line_value="Introduction"/>
+<DATE line="2" line_value="1930"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/father.jpg"/>
+<NOTE line="3" line_value="Barack Obama, Sr. was the father of Barack Obama Jr., who i">
+<CONC line="4" line_value="s the 44th President of the United States of America. (&lt;u>&lt;"/>
+<CONC line="4" line_value="a href='http://ourfathers.org/test/#/obama/obama.ged.xml/I1"/>
+<CONC line="4" line_value="' target='_blank'>Click here for a presentation of Presiden"/>
+<CONC line="4" line_value="t Barack Obama Jr.&lt;/a>&lt;/u>).&lt;/p>"/>
+<CONT line="4" line_value="&lt;p>Note: This is a very short presentation and should be ma"/>
+<CONC line="4" line_value="de more complete.&lt;/p>"/>
+</NOTE>
+<_DATE line="3" line_value="1930"/>
+<_SOUND line="3" line_value="obama/audio/father/intro.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="Birth">
+<TYPE line="2" line_value="Birth"/>
+<DATE line="2" line_value="4 Apr 1936"/>
+<PLAC line="2" line_value="Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/obama_grandmother.jpg"/>
+<NOTE line="3" line_value="Barack Hussein Obama, Sr. was born in Kenya on April 4, 193">
+<CONC line="4" line_value="6."/>
+</NOTE>
+<_DATE line="3" line_value="4 Apr 1936"/>
+<_SOUND line="3" line_value="obama/audio/father/birth.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1">
+<TYPE line="2" line_value="Marriage"/>
+<DATE line="2" line_value="2 Feb 1961"/>
+<PLAC line="2" line_value="Maui, Hawaii, USA"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/parents_ob_obama.jpg"/>
+<NOTE line="3" line_value="On 2 February 1961, Obama Sr. married fellow student Stanle">
+<CONC line="4" line_value="y Ann Dunham, in Maui, Hawaii"/>
+</NOTE>
+<_DATE line="3" line_value="2 Feb 1961"/>
+<_SOUND line="3" line_value="obama/audio/father/marriage.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<EVEN line="1" line_value="birth of barack jr">
+<TYPE line="2" line_value="Birth of Child"/>
+<DATE line="2" line_value="4 Aug 1961"/>
+<PLAC line="2" line_value="Kapi'olani Maternity &amp; Gynecological Hospital, Honolulu, Hawaii"/>
+<OBJE line="2">
+<FORM line="3" line_value="jpg"/>
+<FILE line="3" line_value="obama/images/father_son.jpg"/>
+<NOTE line="3" line_value="Obama Sr.'s and Dunham's son, Barack Obama II, was born o">
+<CONC line="4" line_value="n August 4th, 1961, in Honolulu, Hawaii."/>
+</NOTE>
+<_DATE line="3" line_value="4 Aug 1961"/>
+<_SOUND line="3" line_value="obama/audio/father/birth_of_son.mp3"/>
+<_SCBK line="3" line_value="Y"/>
+<_PRIM line="3" line_value="Y"/>
+<_TYPE line="3" line_value="PHOTO"/>
+</OBJE>
+</EVEN>
+<_UID line="1" line_value="B5F21BD4B1F1478499925AD8AD8847C29E83"/>
+<CHAN line="1">
+<DATE line="2" line_value="3 Aug 2010">
+<TIME line="3" line_value="12:14"/>
+</DATE>
+</CHAN>
+<FAMS line="1" pointer="F1"/>
+</INDI>
+<FAM line="0" xref="F1">
+<HUSB line="1" pointer="I2"/>
+<MARR line="1"/>
+<CHIL line="1" pointer="I1">
+<_PREF line="2" line_value="Y"/>
+</CHIL>
+<CHAN line="1">
+<DATE line="2" line_value="3 Aug 2010">
+<TIME line="3" line_value="10:27"/>
+</DATE>
+</CHAN>
+</FAM>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony">
+<ABBR line="2" line_value="Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony"/>
+<MAP line="2">
+<LATI line="3" line_value="S.383333333333333"/>
+<LONG line="3" line_value="E34.6333333333333"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Wichita, Sedgwick, Kansas, USA">
+<ABBR line="2" line_value="Wichita, Sedgwick, KS, USA"/>
+<MAP line="2">
+<LATI line="3" line_value="N37.6922222222222"/>
+<LONG line="3" line_value="W97.3372222222222"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="University of Hawaii at Manoa, Hi">
+<ABBR line="2" line_value="University of Hawaii at Manoa"/>
+<MAP line="2">
+<LATI line="3" line_value="N21.2967819444444"/>
+<LONG line="3" line_value="W157.820922777778"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Kapi'olani Maternity &amp; Gynecological Hospital, Honolulu, Hawaii">
+<ABBR line="2" line_value="Kapi'olani Maternity &amp; Gynecological Hospital, Honolulu, Hawaii"/>
+<_PREP line="2" line_value="at"/>
+<MAP line="2">
+<LATI line="3" line_value="N21.2999108333333"/>
+<LONG line="3" line_value="W157.834429166667"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="6085 Kalanianoale Hiway, honolulu, hi">
+<ABBR line="2" line_value="6085 Kalanianoale Hiway, honolulu, hi"/>
+<MAP line="2">
+<LATI line="3" line_value="N21.2857"/>
+<LONG line="3" line_value="W157.723690833333"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Menteng, Jakarta">
+<ABBR line="2" line_value="Menteng, Jakarta"/>
+<MAP line="2">
+<LATI line="3" line_value="S6.19638194444444"/>
+<LONG line="3" line_value="E106.837893055556"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Besuki Public School, Jakarta">
+<ABBR line="2" line_value="Besuki Public School, Jakarta"/>
+<MAP line="2">
+<LATI line="3" line_value="S6.19869388888889"/>
+<LONG line="3" line_value="E106.828983888889"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Maui, Hawaii, USA">
+<ABBR line="2" line_value="Maui, Hawaii, USA"/>
+<MAP line="2">
+<LATI line="3" line_value="N20.8859669444444"/>
+<LONG line="3" line_value="W156.474988055556"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Honolulu, Hi">
+<ABBR line="2" line_value="Honolulu, Hi"/>
+<MAP line="2">
+<LATI line="3" line_value="N21.303"/>
+<LONG line="3" line_value="W157.8306"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Occidental College, Los Angeles, USA">
+<ABBR line="2" line_value="Occidental College, Los Angeles, USA"/>
+<_PREP line="2" line_value="at"/>
+<MAP line="2">
+<LATI line="3" line_value="N34.1280555555556"/>
+<LONG line="3" line_value="W118.211111111111"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Yogyakarta , Indonesia">
+<ABBR line="2" line_value="Yogyakarta , Indonesia"/>
+<MAP line="2">
+<LATI line="3" line_value="S7.78333333333333"/>
+<LONG line="3" line_value="E110.366666944444"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="India">
+<ABBR line="2" line_value="India"/>
+<MAP line="2">
+<LATI line="3" line_value="N28.6353080555556"/>
+<LONG line="3" line_value="E77.2249597222222"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Columbia University, New York City">
+<ABBR line="2" line_value="Columbia University, New York City"/>
+<MAP line="2">
+<LATI line="3" line_value="N40.8075"/>
+<LONG line="3" line_value="W73.9619444444444"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="New York Public Interest Research Group, New York">
+<ABBR line="2" line_value="New York Public Interest Research Group, New York"/>
+<MAP line="2">
+<LATI line="3" line_value="N40.6086480555556"/>
+<LONG line="3" line_value="W74.1535627777778"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="South Side, Chicago">
+<ABBR line="2" line_value="South Side, Chicago"/>
+<MAP line="2">
+<LATI line="3" line_value="N41.71"/>
+<LONG line="3" line_value="W87.62"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Europe">
+<ABBR line="2" line_value="Europe"/>
+<MAP line="2">
+<LATI line="3" line_value="N48.8587677777778"/>
+<LONG line="3" line_value="E2.29445997222222"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Kisumu, Kenya">
+<ABBR line="2" line_value="Kisumu, Kenya"/>
+<MAP line="2">
+<LATI line="3" line_value="N.0997769444444444"/>
+<LONG line="3" line_value="E34.7630377777778"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Harvard Law School, Massachusetts">
+<ABBR line="2" line_value="Harvard Law School, Massachusetts"/>
+<MAP line="2">
+<LATI line="3" line_value="N42.3784358333333"/>
+<LONG line="3" line_value="W71.11995"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="University of Chicago, Chicago, Il">
+<ABBR line="2" line_value="University of Chicago, Chicago, Il"/>
+<MAP line="2">
+<LATI line="3" line_value="N41.7859419444444"/>
+<LONG line="3" line_value="W87.5985441666667"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Trinity United Church of Christ in Chicago, Illinois">
+<ABBR line="2" line_value="Trinity United Church of Christ in Chicago, Illinois"/>
+<MAP line="2">
+<LATI line="3" line_value="N41.7219280555556"/>
+<LONG line="3" line_value="W87.6342269444445"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Illinois State Capitol, Springfield, IL, U.S">
+<ABBR line="2" line_value="Illinois State Capitol, Springfield, IL, U.S"/>
+<MAP line="2">
+<LATI line="3" line_value="N39.7985158333333"/>
+<LONG line="3" line_value="W89.6548877777778"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="Kenwood, Chicago, IL">
+<ABBR line="2" line_value="Kenwood, Chicago, IL"/>
+<MAP line="2">
+<LATI line="3" line_value="N41.8092"/>
+<LONG line="3" line_value="W87.5975491666667"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_PLAC_DEFN line="0">
+<PLAC line="1" line_value="US Capitol Building, Washington, D.C.">
+<ABBR line="2" line_value="US Capitol Building, Washington, D.C."/>
+<MAP line="2">
+<LATI line="3" line_value="N38.8898219444444"/>
+<LONG line="3" line_value="W77.0080771388889"/>
+</MAP>
+</PLAC>
+</_PLAC_DEFN>
+<_EVENT_DEFN line="0" line_value="Employment">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Employment">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[HeShe] was employed as a [Desc] [onDate] [inPlace].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[HeShe] was employed [onDate].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[HeShe] was employed [inPlace].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[HeShe] was employed as a [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[HeShe] was employed as a [Desc] [onDate].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[HeShe] was employed as a [Desc] [inPlace].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[HeShe] was employed [onDate] [inPlace].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[HeShe] was employed.[Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="School">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="School">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[HeShe] attended school at [Desc] [onDate] [inPlace].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[HeShe] attended school [onDate].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[HeShe] attended school [inPlace].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[HeShe] attended school at [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[HeShe] attended school at [Desc] [onDate].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[HeShe] attended school at [Desc] [inPlace].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[HeShe] attended school [onDate] [inPlace].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[HeShe] attended school.[Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Move">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Move">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[HeShe] moved [Desc] [onDate] to [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[HeShe] moved [onDate].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[HeShe] moved to [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[HeShe] moved [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[HeShe] moved [Desc] [onDate].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[HeShe] moved [Desc] to [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[HeShe] moved [onDate] to [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[HeShe] moved.[Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="0"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Parents">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Parents">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Birth of Father">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Birth of Father">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Birth of mother">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Birth of mother">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="parents_met">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="parents_met">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Parents married">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Parents married">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1"/>
+<_SEN2 line="1"/>
+<_SEN3 line="1"/>
+<_SEN4 line="1"/>
+<_SEN5 line="1"/>
+<_SEN6 line="1"/>
+<_SEN7 line="1"/>
+<_SEN8 line="1"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Birth Residence">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Birth Residence">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Divorce of parents">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Divorce of parents">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Traveled">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Traveled">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Moved">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Moved">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Marriage">
+<TYPE line="1" line_value="M"/>
+<TITL line="1" line_value="Marriage">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Public Office">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Public Office">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Birth of Child">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Birth of Child">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Birth">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Birth">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[HeShe] was born [Desc] [onDate] [inPlace].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[HeShe] was born [onDate].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[HeShe] was born [inPlace].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[HeShe] was born [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[HeShe] was born [Desc] [onDate].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[HeShe] was born [Desc] [inPlace].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[HeShe] was born [onDate] [inPlace].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[HeShe] was born.[Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+<_EVENT_DEFN line="0" line_value="Introduction">
+<TYPE line="1" line_value="I"/>
+<TITL line="1" line_value="Introduction">
+<ABBR line="2"/>
+</TITL>
+<ABBR line="1"/>
+<_SEN1 line="1" line_value="[EventName]: [Desc], [Date], [Place].[Sources] [Notes]"/>
+<_SEN2 line="1" line_value="[EventName]: [Date].[Sources] [Notes]"/>
+<_SEN3 line="1" line_value="[EventName]: [Place].[Sources] [Notes]"/>
+<_SEN4 line="1" line_value="[EventName]: [Desc].[Sources] [Notes]"/>
+<_SEN5 line="1" line_value="[EventName]: [Desc], [Date].[Sources] [Notes]"/>
+<_SEN6 line="1" line_value="[EventName]: [Desc], [Place].[Sources] [Notes]"/>
+<_SEN7 line="1" line_value="[EventName]: [Date], [Place].[Sources] [Notes]"/>
+<_SEN8 line="1" line_value="[EventName]: [Sources] [Notes]"/>
+<_DATE_TYPE line="1" line_value="1"/>
+<_PLACE_TYPE line="1" line_value="1"/>
+<_DESC_FLAG line="1" line_value="1"/>
+<_CONF_FLAG line="1" line_value="1"/>
+</_EVENT_DEFN>
+</HEAD>

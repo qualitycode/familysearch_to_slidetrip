@@ -1,0 +1,1054 @@
+0 HEAD
+1 SOUR Legacy
+2 VERS 7.4
+2 NAME Legacy (R)
+2 CORP Millennia Corp.
+3 ADDR PO Box 9410
+4 CONT Surprise, AZ 85374
+1 DEST Legacy
+1 DATE 3 Aug 2010
+1 SUBM @S0@
+1 FILE C:\wamp\www\genearth\obama\obama.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+0 @S0@ SUBM
+1 NAME Maddocks
+0 @I1@ INDI
+1 NAME Barack Hussein /Obama/
+2 GIVN Barack Hussein
+2 SURN Obama
+2 NSFX Jr.
+1 SEX M
+1 BIRT
+2 DATE 4 Aug 1961
+2 PLAC Kapi'olani Maternity & Gynecological Hospital, Honolulu, Hawaii
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\obama_child.jpg
+3 NOTE Barack Obama  was born  to this union  on August 4, 1961, a
+4 CONC t  <u><a href='http://en.wikipedia.org/wiki/Kapi%27olani_Me
+4 CONC dical_Center_for_Women_%26_Children' title='Kapiolani Medic
+4 CONC al Center for Women &amp;amp; Children' target='_blank'>Kap
+4 CONC iolani  Maternity &amp;amp; Gynecological Hospital</a></u
+4 CONC > in Honolulu, Hawaii.
+3 _DATE 4 Aug 1961
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-162346.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Parents
+2 DATE 10 Jan 1920
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\Ann_Dunham_with_father_and_children.jpg
+3 NOTE <p>Barack Hussein Obama Jr., is the son of Stanley Ann Dunh
+4 CONC am and Barack Hussein Obama, Sr.  Barack Jr.  is shown her
+4 CONC e with his mother and maternal grandfather, Stanley Dunham
+4 CONC , and half sister, Maya Soetoro.</p>
+4 CONT <p><strong><u><a href='http://ourfathers.org/test/#/obama/o
+4 CONC bama.ged.xml/I2' target='_blank'>Click here to see a presen
+4 CONC tation about President Obama's Father.</a></u></strong></p>
+3 _DATE 10 Jan 1920
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-161738.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Birth of Father
+2 DATE 4 Apr 1936
+2 PLAC Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\father.jpg
+3 TITL Barack Hussein Obama, Sr
+3 NOTE <p>Obama's father was born on April 4, 1936 in Kanyadhian
+4 CONC g village, Rachuonyo District on the shores of Lake Victori
+4 CONC a just outside Kendu Bay, Kenya Colony.</p>
+4 CONT <p><strong><u><a href='http://ourfathers.org/test/#/obama/o
+4 CONC bama.ged.xml/I2' target='_blank'>Click here to see a presen
+4 CONC tation about President Obama's Father.</a></u></strong></p>
+3 _DATE 4 Apr 1936
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-161925.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Birth of mother
+2 DATE 29 Nov 1942
+2 PLAC Wichita, Sedgwick, Kansas, USA
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\Surviving_Against_the_Odds.jpg
+3 NOTE Obama's mother  was born on  November 29, 1942 in Wichita
+4 CONC , Kansas.
+3 _DATE 29 Nov 1942
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-161841.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE parents_met
+2 DATE 1960
+2 PLAC University of Hawaii at Manoa, Hi
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\parents_younger.jpg
+3 NOTE Obama's parents met in 1960 in a Russian language class a
+4 CONC t the University of Hawaii at Mánoa, where his father wa
+4 CONC s a foreign student on scholarship.
+3 _DATE 1960
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-162251.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Parents married
+2 DATE 2 Feb 1961
+2 PLAC Maui, Hawaii, USA
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\parents_ob_obama.jpg
+3 TITL Barack Obama's Parents
+3 NOTE In Feb 2, 1961, Obama's parents were married in Maui, Hawaii
+3 _DATE 2 Feb 1961
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-162311.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Birth Residence
+2 DATE 13 Aug 1961
+2 PLAC 6085 Kalanianoale Hiway, honolulu, hi
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\obama_with_mother.jpg
+3 NOTE The local paper announced the birth of Barack, and the plac
+4 CONC e of his residence as  6085 Kalanianoale Hiway, honolulu, hi
+3 _DATE 13 Aug 1961
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-162552.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Divorce of parents
+2 DATE 1964
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\stepadad_and_fam.jpg
+3 NOTE Barack's parents divorced in 1964. After her divorce, Barac
+4 CONC k's mother  married <a href='http://en.wikipedia.org/wiki/I
+4 CONC ndonesia' title='Indonesia' target='_blank'><u>Indonesian</
+4 CONC u></a> student <a href='http://en.wikipedia.org/wiki/Lolo_S
+4 CONC oetoro' title='Lolo Soetoro' target='_blank'><u>Lolo  Soeto
+4 CONC ro</u></a>, who was attending college in Hawaii.
+3 _DATE 1964
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-162734.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Move
+2 DATE 1967
+2 PLAC Menteng, Jakarta
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\jakarta.jpg
+3 TITL Jakarta
+3 NOTE When <a href='http://en.wikipedia.org/wiki/Suharto' title='
+4 CONC Suharto' target='_blank'><u>Suharto</u></a>, a  military le
+4 CONC ader in Soetoro's home country, <a href='http://en.wikipedi
+4 CONC a.org/wiki/Transition_to_the_New_Order' title='Transition t
+4 CONC o the New Order' target='_blank'><u>came to power</u></a> i
+4 CONC n 1967, all Indonesian  students studying abroad were recal
+4 CONC led, and Barackâ€™s family all moved to the <a href='http:/
+4 CONC /en.wikipedia.org/wiki/Menteng' title='Menteng' target='_bl
+4 CONC ank'><u>Menteng</u></a> neighborhood of <a href='http://en.
+4 CONC wikipedia.org/wiki/Jakarta' title='Jakarta' target='_blank'
+4 CONC ><u>Jakarta</u></a>.
+3 _DATE 1967
+3 _SOUND C:\wamp\www\genearth\obama\audio\10_when_suharto.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE School
+2 DATE 1968
+2 PLAC Besuki Public School, Jakarta
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\at_Besuki_public_school .jpg
+3 NOTE From  ages six to ten, Obama attended local schools in Jaka
+4 CONC rta, including <a href='http://en.wikipedia.org/wiki/State_
+4 CONC Elementary_School_Menteng_01' title='State Elementary Schoo
+4 CONC l Menteng 01' target='_blank'><u>Besuki Public School</u></
+4 CONC a> and St.  Francis of Assisi School.
+3 _DATE 1968
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-163244.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\ObamaKindergartenLarge2.jpg
+3 _DATE 1969
+3 _SCBK Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Move
+2 DATE 1971
+2 PLAC Honolulu, Hi
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\with_grandparents.jpg
+3 TITL Obama with his maternal grandparents, Madelyn and Stanley Armour Dunham
+3 NOTE In  1971, Obama returned to Honolulu to live with his mater
+4 CONC nal grandparents, <a href='http://en.wikipedia.org/wiki/Mad
+4 CONC elyn_Dunham' title='Madelyn Dunham' target='_blank'><u>Made
+4 CONC lyn</u></a> and <a href='http://en.wikipedia.org/wiki/Stanl
+4 CONC ey_Armour_Dunham' title='Stanley Armour Dunham' target='_bl
+4 CONC ank'><u>Stanley Armour Dunham</u></a>
+3 _DATE 1971
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-163936.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\wmama_0421.jpg
+3 NOTE Obama's  mother returned to Hawaii in 1972, remaining ther
+4 CONC e until 1977 when she went  back to Indonesia to work as a
+4 CONC n <a href='http://en.wikipedia.org/wiki/Anthropology' title
+4 CONC ='Anthropology' target='_blank'><u>anthropological</u></a
+4 CONC > field worker. She finally returned to Hawaii in 1994 an
+4 CONC d lived there for one  year, before dying of <a href='http:
+4 CONC //en.wikipedia.org/wiki/Ovarian_cancer' title='Ovarian canc
+4 CONC er' target='_blank'><u>ovarian cancer</u></a>.
+3 _DATE 1972
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-165420.mp3
+3 _SCBK Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Move
+2 DATE 1979
+2 PLAC Occidental College, Los Angeles, USA
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\800px-Occidental_quad.jpg
+3 TITL Occidental College Campus
+3 NOTE Following high school, Obama moved to Los Angeles in 1979 t
+4 CONC o attend <a href='http://en.wikipedia.org/wiki/Occidental_C
+4 CONC ollege' title='Occidental College' target='_blank'><u>Occid
+4 CONC ental College</u></a>.<a href='http://en.wikipedia.org/wiki
+4 CONC /Barack_Obama#cite_note-Occidental-25'></a> In February 198
+4 CONC 1, he made his first public speech, calling for Occidental'
+4 CONC s <a href='http://en.wikipedia.org/wiki/Disinvestment_from_
+4 CONC South_Africa' title='Disinvestment from South Africa' targe
+4 CONC t='_blank'><u>divestment</u></a> from South Africa.
+3 _DATE 1979
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-165720.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Traveled
+2 DATE 1981
+2 PLAC Yogyakarta , Indonesia
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\barack_maya.jpg
+3 TITL Barack with Sister, Maya
+3 NOTE In the summer of 1981, Obama traveled to  Yogyakarta , Indo
+4 CONC nesia to visit his mother and sister Maya.
+3 _DATE 1 Jun 1981
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-165747.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Traveled
+2 DATE 5 Jun 1981
+2 PLAC India
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\ObamaPunahouMagazine.jpg
+3 TITL Obama with college friends
+3 NOTE He also visited the families of college friends in India an
+4 CONC d Pakistan.
+3 _DATE 5 Jun 1981
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170053.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE School
+2 DATE 9 Jan 1981
+2 PLAC Columbia University, New York City
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\barack-obama-columbia.jpg
+3 TITL Barack at Columbia University
+3 NOTE Later in 1981 he transferred to Columbia University in Ne
+4 CONC w York City, where he majored in political science with a s
+4 CONC pecialty in international relations and graduated with a B.
+4 CONC A. degree in 1983.
+3 _DATE 1 Sep 1981
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170221.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Employment
+2 DATE 1982
+2 PLAC New York Public Interest Research Group, New York
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\nypirg.jpg
+3 NOTE He  worked for a year at the <a href='http://en.wikipedia.o
+4 CONC rg/wiki/Business_International_Corporation' title='Busines
+4 CONC s International Corporation' target='_blank'><u>Business In
+4 CONC ternational Corporation</u></a>,<a href='http://en.wikipedi
+4 CONC a.org/wiki/Barack_Obama#cite_note-BOCV-27'></a><a href='htt
+4 CONC p://en.wikipedia.org/wiki/Barack_Obama#cite_note-28'></a> t
+4 CONC hen at the <a href='http://en.wikipedia.org/wiki/New_York_P
+4 CONC ublic_Interest_Research_Group' title='New York Public Inter
+4 CONC est Research Group' target='_blank'><u>New York Public Inte
+4 CONC rest  Research
+3 _DATE 1982
+3 _SOUND C:\wamp\www\genearth\obama\audio\20_he_worked_for_a_year.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN hired in Chicago as director of the Developing Communities Project 
+2 TYPE Moved
+2 DATE 1985
+2 PLAC South Side, Chicago
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\director_of_developing_communities.jpg
+3 NOTE After four years in New York City, Obama was hired in Chica
+4 CONC go as director of the Developing Communities Project (DCP)
+4 CONC , a church-based community organization in Chicago's far So
+4 CONC uth Side.
+3 _DATE 1985
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170503.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Traveled
+2 DATE 1 Jun 1988
+2 PLAC Europe
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\europe-map.jpg
+3 NOTE In mid-1988, he traveled for the first time in Europe.   H
+4 CONC e was there three weeks.
+3 _DATE 1 Jun 1988
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170531.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN and then to kenya to visit paternal family
+2 TYPE Traveled
+2 DATE 1 Jul 1988
+2 PLAC Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\obama_family_12.jpg
+3 TITL Obama with his Paternal Grandmother
+3 NOTE ...and then for five weeks in Kenya, where he met many of h
+4 CONC is paternal relatives for the first time
+3 _DATE 1 Jul 1988
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170539.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN traveled to Kenya
+2 TYPE Traveled
+2 DATE 1 Aug 2006
+2 PLAC Kisumu, Kenya
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\obama_family_11.jpg
+3 NOTE In August 2006 Obama again visited his father's birthplace
+4 CONC , a village near Kisumu in rural western Kenya.
+3 _DATE 1 Aug 2006
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170718.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN harvard
+2 TYPE School
+2 DATE 1 Dec 1988
+2 PLAC Harvard Law School, Massachusetts
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\hardvard_law_review.jpg
+3 NOTE In  late 1988, Obama entered <a href='http://en.wikipedia.o
+4 CONC rg/wiki/Harvard_Law_School' title='Harvard Law School' targ
+4 CONC et='_blank'><u>Harvard Law School</u></a>. He was selecte
+4 CONC d as an editor  of the <em>Harvard Law Review</em> at the e
+4 CONC nd of his first year,<a href='http://en.wikipedia.org/wiki/
+4 CONC Barack_Obama#cite_note-Harvard_Law_2007-36'></a> and presid
+4 CONC ent of the journal in his second year.
+3 _DATE Dec-Jan 1988
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170753.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN moved back to Chicago and taught law
+2 TYPE Moved
+2 DATE 1991
+2 PLAC University of Chicago, Chicago, Il
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\University_of_Chicago_Law.jpg
+3 NOTE After graduating with a Juris Doctor magna cum laude from H
+4 CONC arvard in 1991, he returned to Chicago.
+4 CONT He accepted positions at the University of Chicago, first a
+4 CONC s Visiting Law and Government Fellow and  then as professo
+4 CONC r at the Law School -as a Lecturer from 1992 to 2004.
+3 _DATE 1991
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170811.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN married Michelle
+2 TYPE Marriage
+2 DATE 3 Oct 1992
+2 PLAC Trinity United Church of Christ in Chicago, Illinois
+2 OBJE
+3 FORM mm
+3 FILE C:\wamp\www\genearth\obama\images\wedding.jpeg
+3 NOTE Obama married Michelle Robinson on October 3, 1992 at the T
+4 CONC rinity United Church of Christ in Chicago, Illinois
+3 _DATE 3 Oct 1992
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170839.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN illinois senate
+2 TYPE Public Office
+2 DATE 1997
+2 PLAC Illinois State Capitol, Springfield, IL, U.S
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\illinois_senate.jpg
+3 NOTE Obama <a href='http://en.wikipedia.org/wiki/Illinois_Senate
+4 CONC _career_of_Barack_Obama' title='Illinois Senate career of B
+4 CONC arack Obama' target='_blank'><u>served</u></a> three term
+4 CONC s in the <a href='http://en.wikipedia.org/wiki/Illinois_Sen
+4 CONC ate' title='Illinois Senate' target='_blank'><u>Illinois  S
+4 CONC enate</u></a> from 1997 to 2004.
+3 _DATE 1997
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-170946.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN birth of Malia
+2 TYPE Birth of Child
+2 DATE 4 Jul 1998
+2 PLAC Kenwood, Chicago, IL
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\malia.jpg
+3 NOTE Barack and Michelle's first daughter, Malia Ann, was born o
+4 CONC n July 4, 1998
+3 _DATE 4 Jul 1998
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-171040.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN sasha born
+2 TYPE Birth of Child
+2 DATE 10 Jun 2001
+2 PLAC Kenwood, Chicago, IL
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\sasha_obama.jpg
+3 NOTE The couple's second child, Natasha ('Sasha'), was born on J
+4 CONC une 10, 2001
+3 _DATE 10 Jun 2001
+3 _SOUND C:\wamp\www\genearth\obama\audio\rec0728-171122.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN us senate
+2 TYPE Public Office
+2 DATE 2005
+2 PLAC US Capitol Building, Washington, D.C.
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\obama_us_senate.jpg
+3 NOTE Obama then became US Senator from 2005 to 2008. Obama annou
+4 CONC nced on November 13, 2008 that he would resign his Senate s
+4 CONC eat on November 16, 2008, to focus on his transition perio
+4 CONC d for the presidency.
+3 _DATE 2005
+3 _SOUND C:\wamp\www\genearth\obama\audio\31_us_sen.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Public Office
+2 DATE 20 Jan 2009
+2 PLAC US Capitol Building, Washington, D.C.
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\inaugeration.jpg
+3 NOTE On January 20 2009, Barack Obama was <a href='http://en.wik
+4 CONC ipedia.org/wiki/Inauguration_of_Barack_Obama' title='Inaugu
+4 CONC ration of Barack Obama' target='_blank'><u>inaugurated</u><
+4 CONC /a> as the 44th President of    the United States of Americ
+4 CONC a.
+3 _DATE 20 Jan 2009
+3 _SOUND C:\wamp\www\genearth\obama\audio\32_inag.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\the_end.jpg
+3 NOTE The End
+3 _DATE 22 Jan 2009
+3 _SCBK Y
+3 _TYPE PHOTO
+1 _UID E3F1B1C382734D04B5C9DD3EA3A82319AE81
+1 CHAN
+2 DATE 3 Aug 2010
+3 TIME 12:09
+1 OBJE
+2 FORM jpg
+2 FILE C:\wamp\www\genearth\obama\images\440px-Official_portrait_of_Barack_Obama.jpg
+2 TITL Barack Hussein Obama Jr.
+2 NOTE This is the story of Barack Obama, the 44th President of th
+3 CONC e United States of America.
+3 CONT 
+3 CONT Most of this information was obtained from <u><a href='http
+3 CONC ://en.wikipedia.org/wiki/Barack_Obama' target='_blank'>Wiki
+3 CONC pedia.org</a></u>.  This site, when finished, will  be an o
+3 CONC nline community of volunteers working with each other to te
+3 CONC ll stories of our histories.  This site was inspired by Wik
+3 CONC ipedia.org.
+3 CONT   
+3 CONT Wikipedia contributors. 'Barack Obama.' Wikipedia, The Fre
+3 CONC e Encyclopedia. Wikipedia, The Free Encyclopedia, 28 Jul. 2
+3 CONC 010. Web. 28 Jul. 2010.
+2 _DATE 1 Jan 1920
+2 _SOUND C:\wamp\www\genearth\obama\audio\1_this_is_story.mp3
+2 _SCBK Y
+2 _PRIM Y
+2 _TYPE PHOTO
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Barack Hussein /Obama/
+2 GIVN Barack Hussein
+2 SURN Obama
+2 NSFX Sr.
+1 SEX M
+1 EVEN 
+2 TYPE Introduction
+2 DATE 1930
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\father.jpg
+3 NOTE Barack Obama, Sr. was the father of Barack Obama Jr., who i
+4 CONC s the 44th President of the United States of America. (<u><
+4 CONC a href='http://ourfathers.org/test/#/obama/obama.ged.xml/I1
+4 CONC ' target='_blank'>Click here for a presentation of Presiden
+4 CONC t Barack Obama Jr.</a></u>).</p>
+4 CONT <p>Note: This is a very short presentation and should be ma
+4 CONC de more complete.</p>
+3 _DATE 1930
+3 _SOUND C:\wamp\www\genearth\obama\audio\father\intro.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN Birth
+2 TYPE Birth
+2 DATE 4 Apr 1936
+2 PLAC Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\obama_grandmother.jpg
+3 NOTE Barack Hussein Obama, Sr. was born in Kenya on April 4, 193
+4 CONC 6.
+3 _DATE 4 Apr 1936
+3 _SOUND C:\wamp\www\genearth\obama\audio\father\birth.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN 
+2 TYPE Marriage
+2 DATE 2 Feb 1961
+2 PLAC Maui, Hawaii, USA
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\parents_ob_obama.jpg
+3 NOTE On 2 February 1961, Obama Sr. married fellow student Stanle
+4 CONC y Ann Dunham, in Maui, Hawaii
+3 _DATE 2 Feb 1961
+3 _SOUND C:\wamp\www\genearth\obama\audio\father\marriage.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 EVEN birth of barack jr
+2 TYPE Birth of Child
+2 DATE 4 Aug 1961
+2 PLAC Kapi'olani Maternity & Gynecological Hospital, Honolulu, Hawaii
+2 OBJE
+3 FORM jpg
+3 FILE C:\wamp\www\genearth\obama\images\father_son.jpg
+3 NOTE Obama Sr.'s and Dunham's son, Barack Obama II, was born o
+4 CONC n August 4th, 1961, in Honolulu, Hawaii.
+3 _DATE 4 Aug 1961
+3 _SOUND C:\wamp\www\genearth\obama\audio\father\birth_of_son.mp3
+3 _SCBK Y
+3 _PRIM Y
+3 _TYPE PHOTO
+1 _UID B5F21BD4B1F1478499925AD8AD8847C29E83
+1 CHAN
+2 DATE 3 Aug 2010
+3 TIME 12:14
+1 FAMS @F1@
+0 @F1@ FAM
+1 HUSB @I2@
+1 MARR 
+1 CHIL @I1@
+2 _PREF Y
+1 CHAN
+2 DATE 3 Aug 2010
+3 TIME 10:27
+0 _PLAC_DEFN 
+1 PLAC Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony
+2 ABBR Kanyadhiang village, Rachuonyo District on the shores of Lake Victoria just outside Kendu Bay, Kenya Colony
+2 MAP
+3 LATI S.383333333333333
+3 LONG E34.6333333333333
+0 _PLAC_DEFN 
+1 PLAC Wichita, Sedgwick, Kansas, USA
+2 ABBR Wichita, Sedgwick, KS, USA
+2 MAP
+3 LATI N37.6922222222222
+3 LONG W97.3372222222222
+0 _PLAC_DEFN 
+1 PLAC University of Hawaii at Manoa, Hi
+2 ABBR University of Hawaii at Manoa
+2 MAP
+3 LATI N21.2967819444444
+3 LONG W157.820922777778
+0 _PLAC_DEFN 
+1 PLAC Kapi'olani Maternity & Gynecological Hospital, Honolulu, Hawaii
+2 ABBR Kapi'olani Maternity & Gynecological Hospital, Honolulu, Hawaii
+2 _PREP at
+2 MAP
+3 LATI N21.2999108333333
+3 LONG W157.834429166667
+0 _PLAC_DEFN 
+1 PLAC 6085 Kalanianoale Hiway, honolulu, hi
+2 ABBR 6085 Kalanianoale Hiway, honolulu, hi
+2 MAP
+3 LATI N21.2857
+3 LONG W157.723690833333
+0 _PLAC_DEFN 
+1 PLAC Menteng, Jakarta
+2 ABBR Menteng, Jakarta
+2 MAP
+3 LATI S6.19638194444444
+3 LONG E106.837893055556
+0 _PLAC_DEFN 
+1 PLAC Besuki Public School, Jakarta
+2 ABBR Besuki Public School, Jakarta
+2 MAP
+3 LATI S6.19869388888889
+3 LONG E106.828983888889
+0 _PLAC_DEFN 
+1 PLAC Maui, Hawaii, USA
+2 ABBR Maui, Hawaii, USA
+2 MAP
+3 LATI N20.8859669444444
+3 LONG W156.474988055556
+0 _PLAC_DEFN 
+1 PLAC Honolulu, Hi
+2 ABBR Honolulu, Hi
+2 MAP
+3 LATI N21.303
+3 LONG W157.8306
+0 _PLAC_DEFN 
+1 PLAC Occidental College, Los Angeles, USA
+2 ABBR Occidental College, Los Angeles, USA
+2 _PREP at
+2 MAP
+3 LATI N34.1280555555556
+3 LONG W118.211111111111
+0 _PLAC_DEFN 
+1 PLAC Yogyakarta , Indonesia
+2 ABBR Yogyakarta , Indonesia
+2 MAP
+3 LATI S7.78333333333333
+3 LONG E110.366666944444
+0 _PLAC_DEFN 
+1 PLAC India
+2 ABBR India
+2 MAP
+3 LATI N28.6353080555556
+3 LONG E77.2249597222222
+0 _PLAC_DEFN 
+1 PLAC Columbia University, New York City
+2 ABBR Columbia University, New York City
+2 MAP
+3 LATI N40.8075
+3 LONG W73.9619444444444
+0 _PLAC_DEFN 
+1 PLAC New York Public Interest Research Group, New York
+2 ABBR New York Public Interest Research Group, New York
+2 MAP
+3 LATI N40.6086480555556
+3 LONG W74.1535627777778
+0 _PLAC_DEFN 
+1 PLAC South Side, Chicago
+2 ABBR South Side, Chicago
+2 MAP
+3 LATI N41.71
+3 LONG W87.62
+0 _PLAC_DEFN 
+1 PLAC Europe
+2 ABBR Europe
+2 MAP
+3 LATI N48.8587677777778
+3 LONG E2.29445997222222
+0 _PLAC_DEFN 
+1 PLAC Kisumu, Kenya
+2 ABBR Kisumu, Kenya
+2 MAP
+3 LATI N.0997769444444444
+3 LONG E34.7630377777778
+0 _PLAC_DEFN 
+1 PLAC Harvard Law School, Massachusetts
+2 ABBR Harvard Law School, Massachusetts
+2 MAP
+3 LATI N42.3784358333333
+3 LONG W71.11995
+0 _PLAC_DEFN 
+1 PLAC University of Chicago, Chicago, Il
+2 ABBR University of Chicago, Chicago, Il
+2 MAP
+3 LATI N41.7859419444444
+3 LONG W87.5985441666667
+0 _PLAC_DEFN 
+1 PLAC Trinity United Church of Christ in Chicago, Illinois
+2 ABBR Trinity United Church of Christ in Chicago, Illinois
+2 MAP
+3 LATI N41.7219280555556
+3 LONG W87.6342269444445
+0 _PLAC_DEFN 
+1 PLAC Illinois State Capitol, Springfield, IL, U.S
+2 ABBR Illinois State Capitol, Springfield, IL, U.S
+2 MAP
+3 LATI N39.7985158333333
+3 LONG W89.6548877777778
+0 _PLAC_DEFN 
+1 PLAC Kenwood, Chicago, IL
+2 ABBR Kenwood, Chicago, IL
+2 MAP
+3 LATI N41.8092
+3 LONG W87.5975491666667
+0 _PLAC_DEFN 
+1 PLAC US Capitol Building, Washington, D.C.
+2 ABBR US Capitol Building, Washington, D.C.
+2 MAP
+3 LATI N38.8898219444444
+3 LONG W77.0080771388889
+0 _EVENT_DEFN Employment
+1 TYPE I
+1 TITL Employment
+2 ABBR 
+1 ABBR 
+1 _SEN1 [HeShe] was employed as a [Desc] [onDate] [inPlace].[Sources] [Notes]
+1 _SEN2 [HeShe] was employed [onDate].[Sources] [Notes]
+1 _SEN3 [HeShe] was employed [inPlace].[Sources] [Notes]
+1 _SEN4 [HeShe] was employed as a [Desc].[Sources] [Notes]
+1 _SEN5 [HeShe] was employed as a [Desc] [onDate].[Sources] [Notes]
+1 _SEN6 [HeShe] was employed as a [Desc] [inPlace].[Sources] [Notes]
+1 _SEN7 [HeShe] was employed [onDate] [inPlace].[Sources] [Notes]
+1 _SEN8 [HeShe] was employed.[Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN School
+1 TYPE I
+1 TITL School
+2 ABBR 
+1 ABBR 
+1 _SEN1 [HeShe] attended school at [Desc] [onDate] [inPlace].[Sources] [Notes]
+1 _SEN2 [HeShe] attended school [onDate].[Sources] [Notes]
+1 _SEN3 [HeShe] attended school [inPlace].[Sources] [Notes]
+1 _SEN4 [HeShe] attended school at [Desc].[Sources] [Notes]
+1 _SEN5 [HeShe] attended school at [Desc] [onDate].[Sources] [Notes]
+1 _SEN6 [HeShe] attended school at [Desc] [inPlace].[Sources] [Notes]
+1 _SEN7 [HeShe] attended school [onDate] [inPlace].[Sources] [Notes]
+1 _SEN8 [HeShe] attended school.[Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Move
+1 TYPE I
+1 TITL Move
+2 ABBR 
+1 ABBR 
+1 _SEN1 [HeShe] moved [Desc] [onDate] to [Place].[Sources] [Notes]
+1 _SEN2 [HeShe] moved [onDate].[Sources] [Notes]
+1 _SEN3 [HeShe] moved to [Place].[Sources] [Notes]
+1 _SEN4 [HeShe] moved [Desc].[Sources] [Notes]
+1 _SEN5 [HeShe] moved [Desc] [onDate].[Sources] [Notes]
+1 _SEN6 [HeShe] moved [Desc] to [Place].[Sources] [Notes]
+1 _SEN7 [HeShe] moved [onDate] to [Place].[Sources] [Notes]
+1 _SEN8 [HeShe] moved.[Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 0
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Parents
+1 TYPE I
+1 TITL Parents
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Birth of Father
+1 TYPE I
+1 TITL Birth of Father
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Birth of mother
+1 TYPE I
+1 TITL Birth of mother
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN parents_met
+1 TYPE I
+1 TITL parents_met
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Parents married
+1 TYPE I
+1 TITL Parents married
+2 ABBR 
+1 ABBR 
+1 _SEN1 
+1 _SEN2 
+1 _SEN3 
+1 _SEN4 
+1 _SEN5 
+1 _SEN6 
+1 _SEN7 
+1 _SEN8 
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Birth Residence
+1 TYPE I
+1 TITL Birth Residence
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Divorce of parents
+1 TYPE I
+1 TITL Divorce of parents
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Traveled
+1 TYPE I
+1 TITL Traveled
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Moved
+1 TYPE I
+1 TITL Moved
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Marriage
+1 TYPE M
+1 TITL Marriage
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Public Office
+1 TYPE I
+1 TITL Public Office
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Birth of Child
+1 TYPE I
+1 TITL Birth of Child
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Birth
+1 TYPE I
+1 TITL Birth
+2 ABBR 
+1 ABBR 
+1 _SEN1 [HeShe] was born [Desc] [onDate] [inPlace].[Sources] [Notes]
+1 _SEN2 [HeShe] was born [onDate].[Sources] [Notes]
+1 _SEN3 [HeShe] was born [inPlace].[Sources] [Notes]
+1 _SEN4 [HeShe] was born [Desc].[Sources] [Notes]
+1 _SEN5 [HeShe] was born [Desc] [onDate].[Sources] [Notes]
+1 _SEN6 [HeShe] was born [Desc] [inPlace].[Sources] [Notes]
+1 _SEN7 [HeShe] was born [onDate] [inPlace].[Sources] [Notes]
+1 _SEN8 [HeShe] was born.[Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 _EVENT_DEFN Introduction
+1 TYPE I
+1 TITL Introduction
+2 ABBR 
+1 ABBR 
+1 _SEN1 [EventName]: [Desc], [Date], [Place].[Sources] [Notes]
+1 _SEN2 [EventName]: [Date].[Sources] [Notes]
+1 _SEN3 [EventName]: [Place].[Sources] [Notes]
+1 _SEN4 [EventName]: [Desc].[Sources] [Notes]
+1 _SEN5 [EventName]: [Desc], [Date].[Sources] [Notes]
+1 _SEN6 [EventName]: [Desc], [Place].[Sources] [Notes]
+1 _SEN7 [EventName]: [Date], [Place].[Sources] [Notes]
+1 _SEN8 [EventName]: [Sources] [Notes]
+1 _DATE_TYPE 1
+1 _PLACE_TYPE 1
+1 _DESC_FLAG 1
+1 _CONF_FLAG 1
+0 TRLR
