@@ -9,23 +9,30 @@ It is smart software that will create movies from your family history, with audi
 
 ## To Do List:
 
- 1. Hook up the existing slidetrip.com slideshow generator to
-    familysearch.org.  Currently slidetrip uses
-    [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) files to generate
-    online slideshows. These shows include audio, images, video, plus
-    virtual trips to your ancestral lands via Google Earth or Google
-    Maps.  Slidetrip converts the gedcom files into xml files.  People
-    don't like creating GEDCOM files from their genealogy software.  So
-    we need to use the api from familysearch.org as the source.  This
-    makes it easier to use slidetrip.
- 2. After we get slidetrip running with familysearch, we need to
+Hook up the existing slidetrip.com slideshow generator to familysearch.org.  Currently slidetrip uses [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM) files to generate online slideshows. These slideshows include audio, images, video, plus virtual trips to your ancestral lands via Google Earth or Google Maps.  Slidetrip converts the gedcom files into xml files.  People don't like creating GEDCOM files from their genealogy software.  So we need to use the api from familysearch.org as the source.  This makes it easier to use slidetrip.  Here are the steps that I see needing to be done to link slidetrip to familysearch:
+
+ 1. Create a one-page html file that will use the familysearch api to
+    log in, choose a family name,
+ 2. Associate images in familysearch memories to events or names.
+ 3. Allow user to upload additional pictures to the familysearch
+    memories. Format the family names and events into an xml object (see
+    example xml:
+    [obama.ged.xml](https://github.com/qualitycode/familysearch_to_slidetrip/blob/master/obama.ged.xml))
+
+## Additional Sub Projects
+
+After the above steps, following are additional sub projects that need to be done for the overall slidetrip project:
+
+ 1. After we get slidetrip running with familysearch, we need to
     re-write slidetrip.  It needs to be converted from Adobe Flash to
     javascript.
- 3. Add collaboration.
- 4. Tools to collaborate to create color picture books from photos and
+ 2. Add collaboration.
+ 3. Tools to collaborate to create color picture books from photos and
     stories.
- 5. There are other cool parts of this project, which will be documented
+ 4. There are other cool parts of this project, which will be documented
     later.
+
+## To Get Involved
 
 To get involved, join our discussion group and leave a message. See https://github.com/qualitycode/familysearch_to_slidetrip  
 
