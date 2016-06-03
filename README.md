@@ -34,6 +34,10 @@ After the above steps, following are additional sub projects that need to be don
 
 ## To Get Involved
 
-To get involved, join our discussion group and leave a message. See https://github.com/qualitycode/familysearch_to_slidetrip  
+To get involved, join our discussion group and leave a message. See https://gitter.im/qualitycode/familysearch_to_slidetrip 
 
 We need programmers, graphic designers, genealogy mentors. Programmers, we are using the MERN stack (Mongo, Express, React, Node.js, javascript, etc.)
+
+We are using the FamilySearch APIs. Please visit https://familysearch.org/developers/ .
+
+Here is the FamilySearch JavaScript SDK:  https://github.com/rootsdev/familysearch-javascript-sdk. 
