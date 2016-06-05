@@ -1,6 +1,8 @@
 
 # Familysearch to slidetrip
 
+[![Gitter](https://badges.gitter.im/qualitycode/familysearch_to_slidetrip.svg)](https://gitter.im/qualitycode/familysearch_to_slidetrip?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Or should I say slidetrip to familysearch?  Whatever.  This is the first of many projects to enhance slidetrip.com.
 
 ## What is slidetrip.com?
